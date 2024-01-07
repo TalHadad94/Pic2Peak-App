@@ -1,11 +1,16 @@
+# Import files:
 from Canvas import Canvas
 
+# Debuging:
+print("Tal: You are in the Main.py file")
+
+# Working:
 print("Wellcom to Pic2Peak")
-print("You are in the Main.py file")
 
 def Execute():
     Canvas(790, 545)
 
 Execute()
 
-print("Done with the Main.py file")
+# Debuging:
+print("Tal: Done with the Main.py file")

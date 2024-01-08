@@ -1,5 +1,5 @@
 # Import files:
-from Canvas import Canvas
+from GUI import GUI
 
 # Debuging:
 print("Tal: You are in the Main.py file")
@@ -8,7 +8,7 @@ print("Tal: You are in the Main.py file")
 print("Wellcom to Pic2Peak")
 
 def Execute():
-    Canvas(790, 545)
+    GUI(800, 600)
 
 Execute()
 
